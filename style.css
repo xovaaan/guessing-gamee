@@ -82,7 +82,7 @@ label{
     margin-left: 2.5rem;
 }
 
-@media  screen and (max-width : 914px) and (min-width: 350px) {
+@media  screen and (max-width : 844px) and (min-width: 390px) {
     label{
         font-size: 1.2rem;
 
