@@ -81,3 +81,34 @@ p{
 label{
     margin-left: 2.5rem;
 }
+
+@media  screen and (max-width : 914px) and (min-width: 350px) {
+    label{
+        font-size: 1.2rem;
+
+    }
+    .btn{
+        border: none;
+        border: 0.1rem solid;
+        padding: 0.3rem;
+        border-radius: 0.4rem;
+        cursor: pointer;
+        transition: all 0.3s;
+        font-size: 1rem;
+        margin-left: 8rem;
+        margin-bottom: 1rem;
+    }
+    input{
+        border: none;
+        border: 0.1rem solid;
+        border-radius: 0.4rem;
+        cursor: pointer;
+        font-size: 1.3rem;
+        width: 40%;
+        margin-left: 7rem;
+        margin-top: 1rem;
+        padding: 0.2rem;
+        text-align: center;
+        margin-right: 15rem;
+    }
+}
